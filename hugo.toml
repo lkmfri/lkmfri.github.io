@@ -1,4 +1,5 @@
 baseURL = 'https://lkmfri.github.io'
 languageCode = 'en-us'
-title = 'LKM web site v0.1'
+title = 'LKM web site v0.01'
 theme = 'ananke'
+publishDir = "docs"
